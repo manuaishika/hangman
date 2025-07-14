@@ -1,0 +1,4 @@
+# Ignore sensitive data
+*.pyc
+__pycache__/
+# Ignore large dictionary if not shared
